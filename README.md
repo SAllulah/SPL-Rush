@@ -1,8 +1,6 @@
 # SPL Pipe Rush
 
-**Learn Splunk's Search Processing Language (SPL) from zero to working SOC analyst level, in your browser.**
-
-SPL Pipe Rush is a free, game-style training app. You watch an expert build a search step by step, then you build it yourself, then you get quizzed. Everything is narrated, animated and runs on built-in sample security data, so you need **no Splunk license, no lab and no installation**.
+**I’ve been trying to learn Splunk’s search language outside of work, and there’s basically nothing good — old YouTube videos and huge walls of text. So I built what I wished existed, with the help of AI: a free, browser-based way to actually practise SPL hands-on, no license needed. It’s how I’m learning it myself. It’s not perfect — if you know Splunk and spot something wrong, tell me and I’ll fix it
 
 ▶ **Play it:** https://sallulah.github.io/SPL-Rush/
 
