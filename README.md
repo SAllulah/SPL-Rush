@@ -4,7 +4,7 @@
 
 SPL Pipe Rush is a free, game-style training app. You watch an expert build a search step by step, then you build it yourself, then you get quizzed. Everything is narrated, animated and runs on built-in sample security data, so you need **no Splunk license, no lab and no installation**.
 
-▶ **Play it:** https://sallulah.github.io/spl-rush/
+▶ **Play it:** https://sallulah.github.io/SPL-Rush/
 
 ---
 
